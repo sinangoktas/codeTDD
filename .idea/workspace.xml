@@ -65,6 +65,7 @@
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <list default="true" id="a13ad3b6-b591-4564-97bc-8ee68fd44bb4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -179,6 +180,22 @@
       </expand>
       <select />
     </treeState>
+=======
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1919" />
@@ -277,6 +294,29 @@
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+  <component name="RunManager" selected="JUnit.TransmissionTest">
+    <configuration name="All in codeTDD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codeTDD" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssertMoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scratch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scratch" />
+      <option name="MAIN_CLASS_NAME" value="scratch.AssertMoreTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -316,6 +356,56 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="TransmissionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="big-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="transmission.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="transmission" />
+      <option name="MAIN_CLASS_NAME" value="transmission.TransmissionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransmissionTest.ignoresShiftToParkWhileInDrive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thread-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="transmission.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="transmission" />
+      <option name="MAIN_CLASS_NAME" value="transmission.TransmissionTest" />
+      <option name="METHOD_NAME" value="ignoresShiftToParkWhileInDrive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TransmissionTest" />
+        <item itemvalue="JUnit.BearingTest" />
+        <item itemvalue="JUnit.AssertMoreTest" />
+        <item itemvalue="JUnit.All in codeTDD" />
+        <item itemvalue="JUnit.TransmissionTest.ignoresShiftToParkWhileInDrive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -425,6 +515,34 @@
         </state>
       </provider>
     </entry>
+  <component name="TestHistory">
+    <history-entry file="TransmissionTest_remainsInDriveAfterAcceleration - 2019.06.07 at 14h 00m 23s.xml">
+      <configuration name="TransmissionTest.remainsInDriveAfterAcceleration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransmissionTest_remainsInDriveAfterAcceleration - 2019.06.07 at 14h 04m 34s.xml">
+      <configuration name="TransmissionTest.remainsInDriveAfterAcceleration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoreCollectionTest_doesNotProperlyHandleIntegerOverflow - 2019.06.07 at 14h 19m 29s.xml">
+      <configuration name="ScoreCollectionTest.doesNotProperlyHandleIntegerOverflow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoreCollectionTest_answersArithmeticMeanOfTwoNumbers - 2019.06.07 at 14h 20m 23s.xml">
+      <configuration name="ScoreCollectionTest.answersArithmeticMeanOfTwoNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoreCollectionTest_answersArithmeticMeanOfTwoNumbers - 2019.06.07 at 14h 20m 38s.xml">
+      <configuration name="ScoreCollectionTest.answersArithmeticMeanOfTwoNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoreCollectionTest_answersArithmeticMeanOfTwoNumbers - 2019.06.07 at 14h 21m 13s.xml">
+      <configuration name="ScoreCollectionTest.answersArithmeticMeanOfTwoNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransmissionTest_ignoresShiftToParkWhileInDrive - 2019.06.07 at 14h 33m 26s.xml">
+      <configuration name="TransmissionTest.ignoresShiftToParkWhileInDrive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssertMoreTest - 2019.06.07 at 14h 34m 47s.xml">
+      <configuration name="AssertMoreTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BearingTest - 2019.06.07 at 14h 34m 55s.xml">
+      <configuration name="BearingTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="masterDetails">
     <states>
