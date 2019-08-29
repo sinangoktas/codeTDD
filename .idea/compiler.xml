@@ -9,8 +9,5 @@
         <module name="codeTDD" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="codeTDD" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
