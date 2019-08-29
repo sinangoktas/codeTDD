@@ -22,5 +22,7 @@ public class ScoreCollectionTest {
       int actualResult = collection.arithmeticMean();
 
       assertThat(actualResult, equalTo(6));
+
+      System.out.println("git test");
    }
 }
